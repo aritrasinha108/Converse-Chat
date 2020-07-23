@@ -1,16 +1,9 @@
-# chat_app_converse
+# Converse Chat 
 
-A new Flutter application.
+A chat application which uses firebase as a backend for authentication and data storage.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To get started you first have to register yourself with an email id and a password.
+Once this is done.. you will be redirected to the main chat screen where you can send and see the recieved messages.
+Next time onwards, you have to login with the same id and password that you had provided while registering. 
+ 
